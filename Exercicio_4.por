@@ -1,7 +1,7 @@
 programa
 {
 	//questão 4: Escreva um sistema que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão:
-	inclua biblioteca Matematica-->mat
+	inclua biblioteca Matematica-->mat
 	
 	funcao inicio()
 	{
