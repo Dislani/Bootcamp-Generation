@@ -1,7 +1,7 @@
 programa
 {
  //PARA
-//1:A prefeitura de uma cidade fez uma pesquisa entre 20 de seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:  
+//1:A prefeitura de uma cidade fez uma pesquisa entre 20 de seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:  
 //a) média do salário da população;
 //b) média do número de filhos;
 //c) maior salário;
@@ -38,7 +38,8 @@ programa
 		escreva("\nA media de filhos foi de: ", mediaFilhos )
 		escreva("\nO maior salario foi de: R$", maiorSalario ) 
 		escreva("\nPercentual de pessoas com salário até R$100,00 foi de: ", percent, "%")
-	}         
+	}
+         
 }
 /* $$$ Portugol Studio $$$ 
  * 
