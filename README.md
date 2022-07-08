@@ -1,2 +1,3 @@
-# aula-generation
-aulas desenvolvidas no curso da generation
+# Bootcamp Generation
+
+Este repositório destina-se ao armazenamento das atividades solucionadas durante o bootcamp.
